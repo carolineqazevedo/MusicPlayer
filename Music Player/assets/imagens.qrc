@@ -1,0 +1,17 @@
+<RCC>
+  <qresource>
+    <file>linha.png</file>
+    <file>music.png</file>
+    <file>transparent.png</file>
+    <file>back.png</file>
+    <file>background.png</file>
+    <file>footer.png</file>
+    <file>next.png</file>
+    <file>listbackground.png</file>
+    <file>pause.png</file>
+    <file>play.png</file>
+    <file>repeat.png</file>
+    <file>stop.png</file>
+    <file>upload.png</file>
+  </qresource>
+</RCC>
